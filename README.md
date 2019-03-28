@@ -1,1 +1,1 @@
-# CSE100 Algorithm Design amd Analysis
+# CSE100 Algorithm Design and Analysis
